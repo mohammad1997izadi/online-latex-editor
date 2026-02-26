@@ -2,7 +2,7 @@
 
 LaTeX is the gold standard for producing professional, high-quality documents in academia, science, mathematics, and technical writing. Unlike traditional word processors, LaTeX focuses on content over formatting, allowing writers to create perfectly structured documents, reports, papers, and presentations.
 
-With the rise of online LaTeX editors and online LaTeX compilers, it has never been easier to write, compile, and share LaTeX documents without installing complex software. One modern tool leading the way is sciscribe.dev
+With the rise of online LaTeX editors and online LaTeX compilers, it has never been easier to write, compile, and share LaTeX documents without installing complex software. One modern tool leading the way is [SciScribe](https://sciscribe.dev)
 , designed for researchers, developers, and technical writers.
 
 ✨ Why Choose LaTeX?
@@ -33,7 +33,7 @@ Papeeria – Lightweight online editor, perfect for teamwork and multi-user proj
 
 Authorea – Scientific writing platform with multi-format export options.
 
-SciScribe – A modern online LaTeX editor and compiler designed for researchers and developers. Visit sciscribe.dev
+SciScribe – A modern online LaTeX editor and compiler designed for researchers and developers. Visit [SciScribe](https://sciscribe.dev)
  to experience a fast, intuitive, and feature-rich LaTeX environment.
 
 💡 Tip: Choosing the right online LaTeX editor can drastically improve your workflow and reduce formatting errors.
@@ -54,7 +54,7 @@ When selecting an online LaTeX compiler or editor, look for these essential feat
 
 ☁️ Cloud storage – Access your LaTeX projects from anywhere, anytime.
 
-SciScribe.dev combines all these features, making it a cutting-edge online LaTeX compiler that simplifies document creation while keeping it professional.
+[SciScribe](https://sciscribe.dev) combines all these features, making it a cutting-edge online LaTeX compiler that simplifies document creation while keeping it professional.
 
 📌 Why SciScribe.dev Stands Out
 
